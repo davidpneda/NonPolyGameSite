@@ -1,0 +1,40 @@
+#banner {
+	background-color: #3a3a3a;
+	color: white;
+	text-align: center;
+}
+
+#game_row {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	-webkit-filter: blur(8px) grayscale(75%);
+}
+
+#pic:hover {
+	-webkit-filter: none;
+	transition: 0.3s;
+}
+
+#header_text {
+	color: white;
+}
+
+.card-header {
+	text-align: center;
+}
+
+.container-fluid {
+	padding-top: 30px;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+.col-md-8 {
+	border: 5px solid #2c3237;
+	padding: 0 0 0 0;
+}
