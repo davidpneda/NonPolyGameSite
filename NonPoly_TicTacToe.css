@@ -1,0 +1,24 @@
+/*CSS for the 3D Tic Tac Toe guide page*/
+#game_info{
+	padding: 0% 10% 2.5%;
+	font-size: 20px;
+	text-indent: 50px;
+}
+
+#info_title{
+	padding: 2.5% 10% 0%;
+}
+
+#how_to_win{
+	padding: 2.5% 10% 0%;
+	font-size: 20px;
+}
+
+li{
+	font-size: 20px;
+}
+
+#win_photo{
+	max-height: 25%;
+	max-width: 25%;
+}
